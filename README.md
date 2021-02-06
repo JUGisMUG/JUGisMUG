@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: Here's my email: jugismug@gmail.com
-- 😄 Pronouns: Him, His
+- 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I can't think of one 😅
 
 -->
