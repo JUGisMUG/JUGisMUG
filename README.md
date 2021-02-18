@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Nothing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: Here's my email: jugismug@gmail.com
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I can't think of one 😅
-
+- 🎓 Languages I know: JavaScript, Python.
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JUGisMUG&show_icons=true&theme=tokyonight)
